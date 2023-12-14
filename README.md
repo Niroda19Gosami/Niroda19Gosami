@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Niroda19Gosami
 - 👀 I’m interested in WebDEV
-- 🌱 I’m currently learning CSE
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on projoect based on AI
 - 📫 How to reach me .......
 
